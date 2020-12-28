@@ -8,7 +8,7 @@
   - Phạm Huy Hoàng
   
 # Ý tưởng :
-  Xây dựng chatbot platform Facebook Messenger cơ bản, là 1 module nhỏ của hệ thống chatbot ứng cứu thiên tai, lũ lụt, giúp đỡ người 
+  - Xây dựng chatbot platform Facebook Messenger cơ bản, là 1 module nhỏ của hệ thống chatbot ứng cứu thiên tai, lũ lụt, giúp đỡ người 
   dân miền Trung
   
 # Cấu trúc của project:
