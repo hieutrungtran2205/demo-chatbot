@@ -2,12 +2,9 @@
 # Đề tài: Xây dựng Chatbot
   
 # Thành viên
-  Đinh Phú Hoàng Hiệp
-  
-  Trần Trung Hiếu
-  
-  Trần Long Vũ
-  
+  Đinh Phú Hoàng Hiệp  
+  Trần Trung Hiếu  
+  Trần Long Vũ 
   Phạm Huy Hoàng
   
 # Ý tưởng :
