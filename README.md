@@ -1,5 +1,4 @@
-<h1>💬 SE04-Nhom 24.1<h1>
-  
+# 💬 SE04-Nhóm 24.1
 # Chatbot
 
   Chatbot thu thập thông tin người gặp nạn do thiên tai
