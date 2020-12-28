@@ -1,4 +1,4 @@
-# 💬 SE04-Nhóm 24.1
+# 👨‍👦‍👦 SE04-Nhóm 24.1
 # Đề tài: Xây dựng Chatbot
   
 # Thành viên
